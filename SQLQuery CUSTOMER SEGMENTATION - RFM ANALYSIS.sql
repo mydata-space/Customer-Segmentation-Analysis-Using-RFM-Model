@@ -106,6 +106,3 @@ SELECT
      END rfm_segmentation
 FROM #rfm  
 
-
-
-FROM sales_table; -- VERY LOW CUSTOMER BASE( 92 CUSTOMERS) 
